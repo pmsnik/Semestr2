@@ -1,0 +1,16 @@
+C:\Users\ivan0\RiderProjects\Variant5\Variant5\bin\Debug\net5.0\Variant5.exe
+C:\Users\ivan0\RiderProjects\Variant5\Variant5\bin\Debug\net5.0\Variant5.deps.json
+C:\Users\ivan0\RiderProjects\Variant5\Variant5\bin\Debug\net5.0\Variant5.runtimeconfig.json
+C:\Users\ivan0\RiderProjects\Variant5\Variant5\bin\Debug\net5.0\Variant5.runtimeconfig.dev.json
+C:\Users\ivan0\RiderProjects\Variant5\Variant5\bin\Debug\net5.0\Variant5.dll
+C:\Users\ivan0\RiderProjects\Variant5\Variant5\bin\Debug\net5.0\ref\Variant5.dll
+C:\Users\ivan0\RiderProjects\Variant5\Variant5\bin\Debug\net5.0\Variant5.pdb
+C:\Users\ivan0\RiderProjects\Variant5\Variant5\obj\Debug\net5.0\Variant5.csprojAssemblyReference.cache
+C:\Users\ivan0\RiderProjects\Variant5\Variant5\obj\Debug\net5.0\Variant5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan0\RiderProjects\Variant5\Variant5\obj\Debug\net5.0\Variant5.AssemblyInfoInputs.cache
+C:\Users\ivan0\RiderProjects\Variant5\Variant5\obj\Debug\net5.0\Variant5.AssemblyInfo.cs
+C:\Users\ivan0\RiderProjects\Variant5\Variant5\obj\Debug\net5.0\Variant5.csproj.CoreCompileInputs.cache
+C:\Users\ivan0\RiderProjects\Variant5\Variant5\obj\Debug\net5.0\Variant5.dll
+C:\Users\ivan0\RiderProjects\Variant5\Variant5\obj\Debug\net5.0\ref\Variant5.dll
+C:\Users\ivan0\RiderProjects\Variant5\Variant5\obj\Debug\net5.0\Variant5.pdb
+C:\Users\ivan0\RiderProjects\Variant5\Variant5\obj\Debug\net5.0\Variant5.genruntimeconfig.cache
