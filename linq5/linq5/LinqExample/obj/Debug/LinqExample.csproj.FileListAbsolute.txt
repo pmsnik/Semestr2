@@ -1,0 +1,20 @@
+/home/rodion/RiderProjects/LinqExample/LinqExample/bin/Debug/LinqExample.exe.config
+/home/rodion/RiderProjects/LinqExample/LinqExample/bin/Debug/LinqExample.exe
+/home/rodion/RiderProjects/LinqExample/LinqExample/bin/Debug/LinqExample.pdb
+/home/rodion/RiderProjects/LinqExample/LinqExample/obj/Debug/LinqExample.csprojAssemblyReference.cache
+/home/rodion/RiderProjects/LinqExample/LinqExample/obj/Debug/LinqExample.csproj.CoreCompileInputs.cache
+/home/rodion/RiderProjects/LinqExample/LinqExample/obj/Debug/LinqExample.exe
+/home/rodion/RiderProjects/LinqExample/LinqExample/obj/Debug/LinqExample.pdb
+/home/rodion/RiderProjects/linq5/LinqExample/bin/Debug/LinqExample.exe.config
+/home/rodion/RiderProjects/linq5/LinqExample/bin/Debug/LinqExample.exe
+/home/rodion/RiderProjects/linq5/LinqExample/bin/Debug/LinqExample.pdb
+/home/rodion/RiderProjects/linq5/LinqExample/obj/Debug/LinqExample.csprojAssemblyReference.cache
+/home/rodion/RiderProjects/linq5/LinqExample/obj/Debug/LinqExample.csproj.CoreCompileInputs.cache
+/home/rodion/RiderProjects/linq5/LinqExample/obj/Debug/LinqExample.exe
+/home/rodion/RiderProjects/linq5/LinqExample/obj/Debug/LinqExample.pdb
+C:\Users\79089\Desktop\прога\дз 3 сем\linq5\linq5\LinqExample\bin\Debug\LinqExample.exe.config
+C:\Users\79089\Desktop\прога\дз 3 сем\linq5\linq5\LinqExample\bin\Debug\LinqExample.exe
+C:\Users\79089\Desktop\прога\дз 3 сем\linq5\linq5\LinqExample\bin\Debug\LinqExample.pdb
+C:\Users\79089\Desktop\прога\дз 3 сем\linq5\linq5\LinqExample\obj\Debug\LinqExample.csprojAssemblyReference.cache
+C:\Users\79089\Desktop\прога\дз 3 сем\linq5\linq5\LinqExample\obj\Debug\LinqExample.exe
+C:\Users\79089\Desktop\прога\дз 3 сем\linq5\linq5\LinqExample\obj\Debug\LinqExample.pdb
