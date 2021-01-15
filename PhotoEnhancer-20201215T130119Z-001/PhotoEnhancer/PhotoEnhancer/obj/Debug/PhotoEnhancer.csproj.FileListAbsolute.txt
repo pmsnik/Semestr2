@@ -1,0 +1,39 @@
+C:\УЧЕБА\3 семестр\Programming2\oop2\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.exe.config
+C:\УЧЕБА\3 семестр\Programming2\oop2\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.exe
+C:\УЧЕБА\3 семестр\Programming2\oop2\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.pdb
+C:\УЧЕБА\3 семестр\Programming2\oop2\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csprojAssemblyReference.cache
+C:\УЧЕБА\3 семестр\Programming2\oop2\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.MainForm.resources
+C:\УЧЕБА\3 семестр\Programming2\oop2\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.Properties.Resources.resources
+C:\УЧЕБА\3 семестр\Programming2\oop2\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csproj.GenerateResource.cache
+C:\УЧЕБА\3 семестр\Programming2\oop2\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\3 семестр\Programming2\oop2\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.exe
+C:\УЧЕБА\3 семестр\Programming2\oop2\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.pdb
+C:\УЧЕБА\3 семестр\Programming2\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.exe.config
+C:\УЧЕБА\3 семестр\Programming2\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.exe
+C:\УЧЕБА\3 семестр\Programming2\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.pdb
+C:\УЧЕБА\3 семестр\Programming2\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csprojAssemblyReference.cache
+C:\УЧЕБА\3 семестр\Programming2\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.MainForm.resources
+C:\УЧЕБА\3 семестр\Programming2\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.Properties.Resources.resources
+C:\УЧЕБА\3 семестр\Programming2\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csproj.GenerateResource.cache
+C:\УЧЕБА\3 семестр\Programming2\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\3 семестр\Programming2\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.exe
+C:\УЧЕБА\3 семестр\Programming2\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.pdb
+C:\WORK WORK WORK\прога бриллиант\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csprojAssemblyReference.cache
+C:\WORK WORK WORK\прога бриллиант\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.MainForm.resources
+C:\WORK WORK WORK\прога бриллиант\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.Properties.Resources.resources
+C:\WORK WORK WORK\прога бриллиант\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csproj.GenerateResource.cache
+C:\WORK WORK WORK\прога бриллиант\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csproj.CoreCompileInputs.cache
+C:\WORK WORK WORK\прога бриллиант\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.exe
+C:\WORK WORK WORK\прога бриллиант\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.pdb
+C:\WORK WORK WORK\прога бриллиант\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.exe.config
+C:\WORK WORK WORK\прога бриллиант\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.exe
+C:\WORK WORK WORK\прога бриллиант\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.pdb
+C:\Users\79089\Desktop\прога\дз 3 сем\PhotoEnhancer-20201215T130119Z-001\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.exe.config
+C:\Users\79089\Desktop\прога\дз 3 сем\PhotoEnhancer-20201215T130119Z-001\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.exe
+C:\Users\79089\Desktop\прога\дз 3 сем\PhotoEnhancer-20201215T130119Z-001\PhotoEnhancer\PhotoEnhancer\bin\Debug\PhotoEnhancer.pdb
+C:\Users\79089\Desktop\прога\дз 3 сем\PhotoEnhancer-20201215T130119Z-001\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csprojAssemblyReference.cache
+C:\Users\79089\Desktop\прога\дз 3 сем\PhotoEnhancer-20201215T130119Z-001\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.MainForm.resources
+C:\Users\79089\Desktop\прога\дз 3 сем\PhotoEnhancer-20201215T130119Z-001\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.Properties.Resources.resources
+C:\Users\79089\Desktop\прога\дз 3 сем\PhotoEnhancer-20201215T130119Z-001\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.csproj.GenerateResource.cache
+C:\Users\79089\Desktop\прога\дз 3 сем\PhotoEnhancer-20201215T130119Z-001\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.exe
+C:\Users\79089\Desktop\прога\дз 3 сем\PhotoEnhancer-20201215T130119Z-001\PhotoEnhancer\PhotoEnhancer\obj\Debug\PhotoEnhancer.pdb
