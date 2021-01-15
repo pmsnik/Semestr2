@@ -1,0 +1,11 @@
+C:\Users\suhom\Desktop\examen\oop\Transactions\Bank\bin\Debug\Bank.dll
+C:\Users\suhom\Desktop\examen\oop\Transactions\Bank\bin\Debug\Bank.pdb
+C:\Users\suhom\Desktop\examen\oop\Transactions\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\suhom\Desktop\examen\oop\Transactions\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\suhom\Desktop\examen\oop\Transactions\Bank\obj\Debug\Bank.dll
+C:\Users\suhom\Desktop\examen\oop\Transactions\Bank\obj\Debug\Bank.pdb
+C:\Users\79089\Desktop\прога\Transactions-20210115T054042Z-001\Transactions\Bank\bin\Debug\Bank.dll
+C:\Users\79089\Desktop\прога\Transactions-20210115T054042Z-001\Transactions\Bank\bin\Debug\Bank.pdb
+C:\Users\79089\Desktop\прога\Transactions-20210115T054042Z-001\Transactions\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\79089\Desktop\прога\Transactions-20210115T054042Z-001\Transactions\Bank\obj\Debug\Bank.dll
+C:\Users\79089\Desktop\прога\Transactions-20210115T054042Z-001\Transactions\Bank\obj\Debug\Bank.pdb
